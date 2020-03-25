@@ -1,4 +1,4 @@
-# Facebook Clone
+# Facebook Redesign
 
 ![Facebook Clone](facebookclone.png)
 <hr>
